@@ -1,0 +1,21 @@
+.header{
+    background: #a2b9bc;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.des{
+    background: #a2b9bc;
+}
+
+.img{
+    background-color:#f4e1d2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+body{
+    background: whitesmoke;
+}
